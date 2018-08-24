@@ -24,7 +24,7 @@ body {
 	height: 830px;
 	min-width:1000px;
 	background:  top center no-repeat;
-	background-image: url(../images/main_bg.jpg);
+	background-image: url(http://api.ihcr.top/randacg/random.php);
 }
 .content{
 	font-family:Microsoft YaHei;
@@ -78,8 +78,8 @@ body {
 	position:absolute;
  	left:0px;
   	top:0px;
-  	width:325px;
-  	height:79px;
+  	width:300px;
+  	height:90px;
 }
 .search-class-indicate-container{
 	position:absolute;
